@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Applied only to LauncherActivity; the SDL game Activity keeps its own fullscreen theme. -->
+    <style name="Theme.ReCompiledSteel.Launcher" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">#46D7E1</item>
+        <item name="colorOnPrimary">#00363A</item>
+        <item name="colorPrimaryContainer">#004F54</item>
+        <item name="colorOnPrimaryContainer">#B9F2F5</item>
+        <item name="colorSecondary">#B0E9ED</item>
+        <item name="colorOnSecondary">#00363A</item>
+        <item name="colorSecondaryContainer">#29494C</item>
+        <item name="colorOnSecondaryContainer">#D1F7F9</item>
+        <item name="colorSurface">#161C22</item>
+        <item name="colorOnSurface">#E1E6EA</item>
+        <item name="colorSurfaceVariant">#30383F</item>
+        <item name="colorOnSurfaceVariant">#C0C8CE</item>
+        <item name="colorOutline">#89939A</item>
+        <item name="colorOutlineVariant">#404950</item>
+        <item name="colorError">#FFB4AB</item>
+        <item name="colorErrorContainer">#93000A</item>
+        <item name="colorOnErrorContainer">#FFDAD6</item>
+        <item name="android:colorAccent">#46D7E1</item>
+        <item name="android:windowBackground">#0C1014</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:statusBarColor">#0C1014</item>
+        <item name="android:navigationBarColor">#0C1014</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+</resources>
