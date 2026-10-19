@@ -1,0 +1,11 @@
+# Copie para local.properties (o Android Studio cria sdk.dir sozinho).
+# sdk.dir=/home/voce/Android/Sdk
+
+# SDK ReXGlue compilado para Android (android/build_sdk.sh instala aqui):
+rex.android.prefix=/home/voce/android/rexglue-android-arm64
+
+# SDK ReXGlue para Linux (roda o codegen na primeira configuração do CMake):
+rex.host.rexglue=/home/voce/rexglue/linux-amd64/bin/rexglue
+
+# Fontes Java do SDL3 (dentro do clone do rexglue-sdk feito pelo build_sdk.sh):
+rex.sdl.java=/home/voce/android/rexglue-sdk/thirdparty/sdl3/android-project/app/src/main/java
