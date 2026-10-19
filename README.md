@@ -1,4 +1,4 @@
-<div align="center"> <img src="docs/images/banner.jpg" alt="ReCompiled Steel" width="100%">
+<div align="center"> <img width="1920" height="480" alt="banner" src="https://github.com/user-attachments/assets/62212c07-f09d-4a5a-9107-ed1f24c96e2a" />
 
 ReCompiled Steel — fork Android
 
